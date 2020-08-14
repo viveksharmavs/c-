@@ -3,7 +3,7 @@
  int main() 
 {
  double a,b;
- cout << "Enter two numbers: ";  
+ cout << "Enter two numbers: "endl;  
 cin >> a >> b; 
 int productOfTwoNumbers = a * b; 
 cout << "Product = " 
